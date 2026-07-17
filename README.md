@@ -33,13 +33,25 @@ This project demonstrates basic network traffic analysis using Wireshark. The ob
 - http
 - icmp
 
-## Screenshots
+## Evidence
 - Interface Selection
+![Wireshark Interface](Evidence/01_Interface.jpeg)
+
 - Live Packet Capture
+![Live Packet Capture](Evidence/02_Live_Packets.jpeg)
+
 - DNS Filter Results
+![DNS Traffic](Evidence/03_DNS.jpeg)
+
 - HTTP Filter Results
+![HTTP Traffic](Evidence/04_HTTP.jpeg)
+
 - ICMP Filter Results
+![ICMP Packet](Evidence/05_ICMP.jpeg)
+
 - Packet Details
+![Packet Details](Evidence/06_Packet_Details.jpeg)
+
 
 ## Key Findings
 - Successfully captured live network traffic.
